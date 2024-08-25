@@ -5,13 +5,13 @@
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://leanprover.zulipchat.com)
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/leanprover-community/mathlib4)
 
-[Mathlib](https://leanprover-community.github.io) is a user maintained library for the [Lean theorem prover](https://leanprover.github.io).
+[Mathlib](https://leanprover-community.github.io) is a user-maintained library for the [Lean theorem prover](https://leanprover.github.io).
 It contains both programming infrastructure and mathematics,
 as well as tactics that use the former and allow to develop the latter.
 
 ## Installation
 
-You can find detailed instructions to install Lean, mathlib, and supporting tools on [our website](https://leanprover-community.github.io/get_started.html).
+You can find detailed instructions for how to install Lean, mathlib, and supporting tools on [our website](https://leanprover-community.github.io/get_started.html).
 Alternatively, click on the button below to open a Gitpod workspace containing the project.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/leanprover-community/mathlib4)
